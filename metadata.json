@@ -1,0 +1,5 @@
+{
+  "name": "AI Interview Practice",
+  "description": "An AI-powered interview simulator with multi-round practice, real-time feedback, and voice interaction.",
+  "requestFramePermissions": ["microphone"]
+}
